@@ -36,7 +36,7 @@ Skills
 
 Publications
 ======
-Please also see the [Publications](/publications/) page. You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+Please also see the [Publications]({{ '/publications/' | relative_url }}) page. You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 **2025**
 
